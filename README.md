@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is Luciano.
+My name is Luciano.
 I am graduated in systems analysis and development and I have been looking to learn a little more about full stack and mobile web development. I'm learning ReactJS, React native, nodeJS, TypeScript, Docker and other technologies. I have more affinity in ReactJS but I am open to challenges.
 
 
