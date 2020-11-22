@@ -5,7 +5,7 @@ I am graduated in systems analysis and development and I have been looking to le
 
 ![Luciano-Ferreira's stats](https://github-readme-stats.vercel.app/api?username=luciano-ferreira&show_icons=true)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-ferreira&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+![Luciano's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 <!--
 **Luciano-Ferreira/Luciano-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
