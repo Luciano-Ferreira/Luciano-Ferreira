@@ -7,7 +7,7 @@ I am graduated in systems analysis and development and I have been looking to le
 
 ![Luciano-Ferreira's stats](https://github-readme-stats.vercel.app/api?username=luciano-ferreira&show_icons=true)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-ferreira&hide=c#,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide=c#,html)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Luciano-Ferreira/Luciano-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
