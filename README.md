@@ -7,7 +7,6 @@ I am graduated in systems analysis and development and I have been looking to le
 
 ![Luciano-Ferreira's stats](https://github-readme-stats.vercel.app/api?username=luciano-ferreira&show_icons=true)
 
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-ferreira&exclude_repo=Projetos-durante-a-faculdade)](https://github.com/anuraghazra/github-readme-stats)
 
