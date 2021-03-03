@@ -16,7 +16,7 @@ I'm graduated in systems analysis and development and I have been looking to lea
 ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)\
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logoColor=fff&logo=expressjs)&nbsp;
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logoColor=fff&logo=Express)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)\
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
