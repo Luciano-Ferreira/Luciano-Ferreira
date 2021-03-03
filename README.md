@@ -14,8 +14,8 @@ I'm graduated in systems analysis and development and I have been looking to lea
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Luciano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-silva-82194b163/)](https://www.linkedin.com/in/luciano-silva-82194b163/) 
-[![Gmail Badge](https://img.shields.io/badge/-luciano2023silva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luciano2023silva@gmail.com)](mailto:luciano2023silva@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Luciano%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianof-silva/)](https://www.linkedin.com/in/lucianof-silva/) 
+[![Gmail Badge](https://img.shields.io/badge/-Luciano%20Silva-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luciano2023silva@gmail.com)](mailto:luciano2023silva@gmail.com)
 
 <!--
 **Luciano-Ferreira/Luciano-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
