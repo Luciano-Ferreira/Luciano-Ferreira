@@ -9,7 +9,7 @@ I'm graduated in systems analysis and development and I have been looking to lea
 
 ![Luciano-Ferreira's stats](https://github-readme-stats.vercel.app/api?username=luciano-ferreira&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-ferreira&exclude_repo=Projetos-durante-a-faculdade)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luciano-ferreira&exclude_repo=Projetos-durante-a-faculdade)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -22,12 +22,7 @@ I'm graduated in systems analysis and development and I have been looking to lea
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-  [![Linkedin Badge](https://img.shields.io/badge/-Luciano%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianof-silva/)](https://www.linkedin.com/in/lucianof-silva/) 
-[![Gmail Badge](https://img.shields.io/badge/-Luciano%20Silva-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luciano2023silva@gmail.com)](mailto:luciano2023silva@gmail.com)
-</p>
-
+<br />
 <p align="center">
 <a href="https://linkedin.com/in/lucianof-silva"><img src="https://img.shields.io/badge/-Luciano%20Silva%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:luciano2023silva@gmail.com"><img src="https://img.shields.io/badge/-Luciano%20Silva-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
