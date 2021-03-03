@@ -15,7 +15,7 @@ I'm graduated in systems analysis and development and I have been looking to lea
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logoColor=fff&logo=react)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)\
-![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql&logoColor=0000ff)&nbsp;
+![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql&logoColor=000ccc)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logoColor=fff&logo=Express)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)\
