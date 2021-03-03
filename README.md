@@ -31,7 +31,7 @@ I'm graduated in systems analysis and development and I have been looking to lea
 <p>
   <a href="https://github.com/luciano-ferreira">
     <img height="180em" width="49%" margin-right="20px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luciano-ferreira&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
-    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luciano-ferreira&hide=c%23,html,javascript&layout=compact&langs_count=8&theme=react"/>
+    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luciano-ferreira&hide=c%23,html,javascript,tsx&layout=compact&langs_count=8&theme=react"/>
   </a>
 </p>
 
