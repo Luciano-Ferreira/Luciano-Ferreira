@@ -16,6 +16,7 @@ I'm graduated in systems analysis and development and I have been looking to lea
 <p>
   <a href="https://github.com/luciano-ferreira">
     <img height="180em" width="49%" margin-right="20px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luciano-ferreira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luciano-ferreira&exclude_repo=Projetos-durante-a-faculdade&layout=compact&langs_count=8&theme=react"/>
   </a>
 </p>
 
@@ -25,6 +26,11 @@ I'm graduated in systems analysis and development and I have been looking to lea
 <p align="center">
   [![Linkedin Badge](https://img.shields.io/badge/-Luciano%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianof-silva/)](https://www.linkedin.com/in/lucianof-silva/) 
 [![Gmail Badge](https://img.shields.io/badge/-Luciano%20Silva-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luciano2023silva@gmail.com)](mailto:luciano2023silva@gmail.com)
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/lucianof-silva"><img src="https://img.shields.io/badge/-Luciano%20Silva%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:luciano2023silva@gmail.com"><img src="https://img.shields.io/badge/-Luciano%20Silva-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
