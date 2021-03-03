@@ -9,13 +9,13 @@ I'm graduated in systems analysis and development and I have been looking to lea
 
 ![Luciano-Ferreira's stats](https://github-readme-stats.vercel.app/api?username=luciano-ferreira&show_icons=true)
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luciano-ferreira&exclude_repo=Projetos-durante-a-faculdade)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-ferreira&exclude_repo=Projetos-durante-a-faculdade)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p>
   <a href="https://github.com/luciano-ferreira">
-    <img height="180em" width="49%" margin-right="20px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luciano-ferreira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="49%" margin-right="20px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luciano-ferreira&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
     <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luciano-ferreira&exclude_repo=Projetos-durante-a-faculdade&layout=compact&langs_count=8&theme=react"/>
   </a>
 </p>
