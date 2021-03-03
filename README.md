@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-My name is Luciano.
+My name's Luciano.
 I'm graduated in systems analysis and development and I have been looking to learn a little more about full stack and mobile web development. I'm learning ReactJS, React native, nodeJS, TypeScript, Docker and others technologies. I have more affinity in ReactJS but I'm open to challenges.
 
 ---
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+![ts](https://flat.badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=blue)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)&nbsp;
