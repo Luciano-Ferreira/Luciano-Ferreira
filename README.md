@@ -3,8 +3,9 @@
 My name is Luciano.
 I am graduated in systems analysis and development and I have been looking to learn a little more about full stack and mobile web development. I'm learning ReactJS, React native, nodeJS, TypeScript, Docker and others technologies. I have more affinity in ReactJS but I am open to challenges.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ---
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ![Luciano-Ferreira's stats](https://github-readme-stats.vercel.app/api?username=luciano-ferreira&show_icons=true)
 
