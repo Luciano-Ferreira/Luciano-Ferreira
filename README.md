@@ -13,12 +13,12 @@ I'm graduated in systems analysis and development and I have been looking to lea
 ![Node.js](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-18BCEE?style=flat&logoColor=fff&logo=react)\
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logoColor=fff&logo=react)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat&logoColor=000&logo=Linux)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)\
 ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql&logoColor=009acc)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logoColor=fff&logo=Express)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat&logoColor=000&logo=Linux)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logoColor=fff&logo=Docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)\
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
