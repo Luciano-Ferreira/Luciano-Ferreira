@@ -10,6 +10,7 @@ I am graduated in systems analysis and development and I have been looking to le
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-ferreira&exclude_repo=Projetos-durante-a-faculdade)](https://github.com/anuraghazra/github-readme-stats)
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Luciano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-silva-82194b163/)](https://www.linkedin.com/in/luciano-silva-82194b163/) 
 [![Gmail Badge](https://img.shields.io/badge/-luciano2023silva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luciano2023silva@gmail.com)](mailto:luciano2023silva@gmail.com)
