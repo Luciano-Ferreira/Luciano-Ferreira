@@ -40,7 +40,7 @@ I'm graduated in systems analysis and development and I have been looking to lea
 </p>
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝 &nbsp;Connect with Me
 <br />
 <p align="center">
 <a href="https://linkedin.com/in/lucianof-silva"><img src="https://img.shields.io/badge/-Luciano%20Silva%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
