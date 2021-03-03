@@ -12,7 +12,7 @@ I'm graduated in systems analysis and development and I have been looking to lea
 ![ts](https://flat.badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=blue)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-18BCEE?style=flat&logoColor=fff&logo=react)\
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logoColor=fff&logoreact)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logoColor=fff&logo=react-native)&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)\
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
