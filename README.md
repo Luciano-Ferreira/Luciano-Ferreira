@@ -25,6 +25,7 @@ I'm graduated in systems analysis and development and I have been looking to lea
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)
 <br />
 <br />
 <br />
@@ -49,6 +50,7 @@ I'm graduated in systems analysis and development and I have been looking to lea
 
 
 <!--
+https://simpleicons.org/
 **Luciano-Ferreira/Luciano-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
