@@ -26,7 +26,7 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)
-![Discord](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord)
+![Discord](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord&logoColor=000000)
 <br />
 <br />
 <br />
