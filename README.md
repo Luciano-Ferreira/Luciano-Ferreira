@@ -12,7 +12,8 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logoColor=fff&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-18BCEE?style=flat&logoColor=fff&logo=react)\
+![ReactJS](https://img.shields.io/badge/-ReactJS-18BCEE?style=flat&logoColor=fff&logo=react)
+![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=ffffff)\
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logoColor=fff&logo=react)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat&logoColor=000&logo=Linux)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
@@ -26,7 +27,6 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)
-![Discord](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord&logoColor=ffffff)
 <br />
 <br />
 <br />
