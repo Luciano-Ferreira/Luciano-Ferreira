@@ -17,7 +17,8 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logoColor=fff&logo=react)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat&logoColor=000&logo=Linux)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)\
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack&logoColor=8DD6F9)\
 ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logoColor=fff&logo=Express)&nbsp;
@@ -28,7 +29,6 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)&nbsp;
 ![Babel](https://img.shields.io/badge/-Babel-333333?style=flat&logo=babel&logoColor=F9DC3E)&nbsp;
-![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack&logoColor=8DD6F9)&nbsp;
 <br />
 <br />
 <br />
