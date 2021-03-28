@@ -28,6 +28,7 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)&nbsp;
 ![Babel](https://img.shields.io/badge/-Babel-333333?style=flat&logo=babel&logoColor=F9DC3E)&nbsp;
+![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack&logoColor=8DD6F9)&nbsp;
 <br />
 <br />
 <br />
