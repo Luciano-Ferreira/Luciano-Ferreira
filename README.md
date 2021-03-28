@@ -25,9 +25,9 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)\
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp
-![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)&nbsp
-![Babel](https://img.shields.io/badge/-Babel-333333?style=flat&logo=babel&logoColor=F9DC3E)&nbsp
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
+![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)&nbsp;
+![Babel](https://img.shields.io/badge/-Babel-333333?style=flat&logo=babel&logoColor=F9DC3E)&nbsp;
 <br />
 <br />
 <br />
