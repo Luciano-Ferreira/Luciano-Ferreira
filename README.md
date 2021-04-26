@@ -19,7 +19,7 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack&logoColor=8DD6F9)&nbsp;
-![Styled-Components](https://img.shields.io/badge/-Styled-Components-333333?style=flat&logo=styled-components&logoColor=ffde34)\
+![Styled-Components](https://img.shields.io/badge/-styled-components-333333?style=flat&logo=styled-components&logoColor=ffde34)\
 ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=CC6699)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)&nbsp;
