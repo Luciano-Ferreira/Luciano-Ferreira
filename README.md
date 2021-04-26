@@ -20,7 +20,7 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack&logoColor=8DD6F9)\
 ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql&logoColor=336791)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=336791)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=CC6699)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logoColor=fff&logo=Express)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logoColor=1572B6&logo=Docker)&nbsp;
@@ -56,6 +56,8 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 
 
 <!--
+badge: https://simpleicons.org/
+
 https://simpleicons.org/
 **Luciano-Ferreira/Luciano-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
