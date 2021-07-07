@@ -36,18 +36,6 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 <br />
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<div align="center">
-  
-[![Luciano-Ferreira's github stats](https://github-readme-stats.vercel.app/api?username=luciano-ferreira&show_icons=true&theme=react&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-ferreira&hide=c%23,html,javascript,tex&layout=compact&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<!--
-&layout=compact&langs_count=8&theme=react
-&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97
--->
-
 ### 🤝 &nbsp;Connect with Me
 <br />
 <p align="center">
