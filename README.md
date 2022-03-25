@@ -42,7 +42,7 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 <p align="center">
 <a href="https://linkedin.com/in/lucianof-silva"><img src="https://img.shields.io/badge/-Luciano%20Silva%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:luciano2023silva@gmail.com"><img src="https://img.shields.io/badge/-Luciano%20Silva-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-![Discord](https://img.shields.io/badge/-Luciano%20Silva#5481-7289DA?style=flat&logo=discord&logoColor=ffffff)\
+  <a href="https://discord.gg/Dy6JUfyYU7"><img src="https://img.shields.io/badge/-Luciano%20Silva%235481-7289DA?style=flat-square&logo=discord&logoColor=ffffff"/></a>
 </p>
 
 
