@@ -14,8 +14,7 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logoColor=fff&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
-![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=ffffff)\
+![ReactJS](https://img.shields.io/badge/-ReactJS-18BCEE?style=flat&logoColor=fff&logo=react)\
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logoColor=fff&logo=react)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat&logoColor=000&logo=Linux)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
@@ -43,6 +42,7 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 <p align="center">
 <a href="https://linkedin.com/in/lucianof-silva"><img src="https://img.shields.io/badge/-Luciano%20Silva%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:luciano2023silva@gmail.com"><img src="https://img.shields.io/badge/-Luciano%20Silva-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+![Discord](https://img.shields.io/badge/-Luciano%20Silva#5481-7289DA?style=flat&logo=discord&logoColor=ffffff)\
 </p>
 
 
