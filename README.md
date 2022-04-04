@@ -31,7 +31,7 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)&nbsp;
-![Jest]()
+![Jest](http://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C21325)
 
 **Styles**\
 ![Styled-Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components&logoColor=ffde34)&nbsp;
