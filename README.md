@@ -30,7 +30,8 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
-![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)
+![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)&nbsp;
+![Jest]()
 
 **Styles**\
 ![Styled-Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components&logoColor=ffde34)&nbsp;
@@ -41,7 +42,10 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 **More...**\
 ![Prismic IO](https://img.shields.io/badge/-Prismic%20IO-333333?style=flat&logo=prismic&logoColor=5163BA)&nbsp;
 ![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=stripe&logoColor=008cdd)&nbsp;
-![Mapbox](https://img.shields.io/badge/-Mapbox-333333?style=flat&logo=mapbox&logoColor=000000)
+![Mapbox](https://img.shields.io/badge/-Mapbox-333333?style=flat&logo=mapbox&logoColor=000000)&nbsp;
+![React Query](https://img.shields.io/badge/-React%20Query-333333?style=flat&logo=reactquery&logoColor=ff4154)&nbsp;
+![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint&logoColor=4B32C3)
+![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=prettier&logoColor=f78993e)
 
 
 ### 🌱 I’m currently learning ...
