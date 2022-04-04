@@ -18,7 +18,7 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![Node.js](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logoColor=fff&logo=react)\
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logoColor=fff&logo=react)
 
 **Tools**\
 ![Linux](https://img.shields.io/badge/-Linux-f0f0f0?style=flat&logoColor=000&logo=Linux)&nbsp;
@@ -30,18 +30,18 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
-![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)\
+![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)
 
 **Styles**\
 ![Styled-Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components&logoColor=ffde34)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=CC6699)&nbsp;
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-333333?style=flat&logo=chakraui&logoColor=319795)\
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-333333?style=flat&logo=chakraui&logoColor=319795)
 
 
 **More...**\
 ![Prismic IO](https://img.shields.io/badge/-Prismic%20IO-333333?style=flat&logo=prismic&logoColor=5163BA)&nbsp;
 ![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=stripe&logoColor=008cdd)&nbsp;
-![Mapbox](https://img.shields.io/badge/-Mapbox-333333?style=flat&logo=mapbox&logoColor=000000)\
+![Mapbox](https://img.shields.io/badge/-Mapbox-333333?style=flat&logo=mapbox&logoColor=000000)
 
 
 ### 🌱 I’m currently learning ...
@@ -49,7 +49,7 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=764abc)&nbsp;
 ![Redux-Saga](https://img.shields.io/badge/-Redux%20Saga-333333?style=flat&logo=reduxsaga&logoColor=999999)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=e10098)&nbsp;
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-f0f0f0?style=flat&logo=apollographql&logoColor=311c87)\
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-f0f0f0?style=flat&logo=apollographql&logoColor=311c87)
 
 ## 🤝 &nbsp;Connect with Me
 <br />
