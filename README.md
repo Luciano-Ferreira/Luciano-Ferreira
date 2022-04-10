@@ -42,7 +42,7 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 **More...**\
 ![Prismic IO](https://img.shields.io/badge/-Prismic%20IO-333333?style=flat&logo=prismic&logoColor=5163BA)&nbsp;
 ![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=stripe&logoColor=008cdd)&nbsp;
-![Mapbox](https://img.shields.io/badge/-Mapbox-333333?style=flat&logo=mapbox&logoColor=000000)&nbsp;
+![Mapbox](https://img.shields.io/badge/-Mapbox-f0f0f0?style=flat&logo=mapbox&logoColor=000000)&nbsp;
 ![Leaflet](https://img.shields.io/badge/-Leaflet-333333?style=flat&logo=leaflet&logoColor=199900)&nbsp;
 ![React Query](https://img.shields.io/badge/-React%20Query-333333?style=flat&logo=reactquery&logoColor=ff4154)&nbsp;
 ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint&logoColor=4B32C3)
