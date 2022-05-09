@@ -59,6 +59,7 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
 ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite&logoColor=646CFF)
 ![Prisma](https://img.shields.io/badge/-Prisma-f0f0f0?style=flat&logo=prisma&logoColor=2D3748)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss&logoColor=06b6d4)
 
 ## 🤝 &nbsp;Connect with Me
 <br />
