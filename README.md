@@ -51,8 +51,6 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 
 ### 🌱 I’m currently learning ...
 
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=764abc)&nbsp;
-![Redux-Saga](https://img.shields.io/badge/-Redux%20Saga-333333?style=flat&logo=reduxsaga&logoColor=999999)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=e10098)&nbsp;
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-f0f0f0?style=flat&logo=apollographql&logoColor=311c87)
 ![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat&logo=storybook&logoColor=ff4785)
