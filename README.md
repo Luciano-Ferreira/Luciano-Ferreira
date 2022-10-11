@@ -67,6 +67,7 @@ I'm graduated in systems analysis and development. I have been looking to learn 
   <a href="https://discord.gg/Dy6JUfyYU7"><img src="https://img.shields.io/badge/-Luciano%20Silva%235481-7289DA?style=flat-square&logo=discord&logoColor=ffffff"/></a>
 </p>
 
+![Snake animation](https://github.com/daniel-cybis/daniel-cybis/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 badge: https://simpleicons.org/
