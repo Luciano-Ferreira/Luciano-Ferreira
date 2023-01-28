@@ -74,6 +74,8 @@ badge: https://simpleicons.org/
 https://simpleicons.org/
 **Luciano-Ferreira/Luciano-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Snake animation](https://github.com/luciano-ferreira/luciano-ferreira/blob/output/github-contribution-grid-snake.svg)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -86,4 +88,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Snake animation](https://github.com/luciano-ferreira/luciano-ferreira/blob/output/github-contribution-grid-snake.svg)
