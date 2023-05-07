@@ -1,4 +1,4 @@
-## <a href="https://github.com/Luciano-Ferreira/Luciano-Ferreira/blob/main/README-ptBR.md" target="_blank"> 📜 Readme in EN-EUA 🇺🇸 </a>
+## <a href="https://github.com/Luciano-Ferreira" target="_blank"> 📜 Readme in EN-EUA 🇺🇸 </a>
 
 # Olá mundo ✌️
 
