@@ -1,8 +1,7 @@
+## <a href="https://github.com/Luciano-Ferreira/Luciano-Ferreira/blob/main/README-ptBR.md" target="_blank"> 📜 Readme in EN-EUA 🇺🇸 </a>
 
-# Hi there ✌️
+# Olá mundo ✌️
 
-
- I like to practice karate and play fps
 
 * 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas
 * 👨🏽‍💻 FullStack mas focado em Desenvolvimento Front-End - Estudando React
