@@ -1,9 +1,17 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luciano-ferreira&color=blue" alt="Profile views" /> </p>
 
-# Hi there 👋
+# Hi there ✌️
 
+<!--
 My name's Luciano.
 I'm graduated in systems analysis and development. I have been looking to learn a little more about full stack and mobile web development. I know ReactJS, React Native, NodeJS, TypeScript, Docker and others technologies. I have more affinity in ReactJS but I'm open to challenges.
+-->
+
+ I like to practice karate and play fps
+
+* 👨‍🎓 Graduated in Systems Analysis and Development
+* 👨🏽‍💻 FullStack but focused on Front-End Development - Studying React
+* 📌 Living in São Paulo, SP
+* 🥋 I like to practice Shotokan Karate and play FPS
 
 ---
 
@@ -67,9 +75,46 @@ I'm graduated in systems analysis and development. I have been looking to learn 
   <a href="https://discord.gg/Dy6JUfyYU7"><img src="https://img.shields.io/badge/-Luciano%20Silva%235481-7289DA?style=flat-square&logo=discord&logoColor=ffffff"/></a>
 </p>
 
+</div>
+
+   <h2>😸 Github stats</h2>
+   
+   <div align="center">
+  
+   [![GitHub Streak](https://streak-stats.demolab.com?user=luciano-ferreira&theme=sea&date_format=n%2Fj%5B%2FY%5D&background=000000&border=00FFFF&fire=orange&ring=00FFFF&stroke=00FFFF)](https://git.io/streak-stats)
+  
+  </div>
+
+   <div align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=luciano-ferreira&show_icons=true&cache_seconds=86400&theme=chartreuse-dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF&bg_color=000000&border_color=00FFFF" height="180" alt=""/>
+    </div>
+    
+<br>
+    
+<div align="center">
+    
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-ferreira&layout=compact&theme=chartreuse-dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF&bg_color=000000&border_color=00FFFF&langs_count=5" alt="" height="194">
+        
+</div>
+
+<br>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=luciano-ferreira&color=blue&style=for-the-badge)
+
+</div>
+    
+<div align="center">
+ 
+![Snake animation](https://github.com/Mateuss18/Mateuss18/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 
 <!--
 badge: https://simpleicons.org/
+https://github.com/iuricode/readme-template/blob/main/badges/badges.md
 
 https://simpleicons.org/
 **Luciano-Ferreira/Luciano-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
