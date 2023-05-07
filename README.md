@@ -1,3 +1,4 @@
+## <a href="https://github.com/Luciano-Ferreira/Luciano-Ferreira/blob/main/README-ptBR.md" target="_blank"> 📜 Readme em PT-BR 🇧🇷 </a>
 
 # Hi there ✌️
 
@@ -17,7 +18,7 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/46464433/161457910-7e9c726f-1f28-42c0-997a-359882fa529e.gif" align="right"/>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech stack
 
 ### 🔭 I’m currently working on ...
 
