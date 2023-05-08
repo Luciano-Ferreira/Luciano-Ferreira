@@ -15,7 +15,6 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 
 ---
 
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/46464433/161457910-7e9c726f-1f28-42c0-997a-359882fa529e.gif" align="right"/>
 
 ## 🛠 &nbsp;Tech stack
 
@@ -104,10 +103,12 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![](https://komarev.com/ghpvc/?username=luciano-ferreira&color=blue&style=for-the-badge)
 
 </div>
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/46464433/161457910-7e9c726f-1f28-42c0-997a-359882fa529e.gif" align="right"/>
+
     
 <div align="center">
  
-![Snake animation](https://github.com/Mateuss18/Mateuss18/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luciano-ferreira/Mateuss18/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
