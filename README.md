@@ -105,9 +105,9 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 </div>
 
 
-    
+ <!--
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/46464433/161457910-7e9c726f-1f28-42c0-997a-359882fa529e.gif" align="center"/>
-
+-->
 
 <!--
 badge: https://simpleicons.org/
