@@ -16,9 +16,9 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ---
 
 
-## 🛠 &nbsp;Tech stack
+# 🛠 &nbsp;Tech stack
 
-### 🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logoColor=fff&logo=typescript)&nbsp;
@@ -27,7 +27,7 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logoColor=fff&logo=react)
 
-🧰 **Tools**\
+### 🧰 Tools
 ![Linux](https://img.shields.io/badge/-Linux-f0f0f0?style=flat&logoColor=000&logo=Linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows%2010-333333?style=flat&logoColor=0078D6&logo=Windows)&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql&logoColor=336791)&nbsp;
@@ -40,13 +40,13 @@ I'm graduated in systems analysis and development. I have been looking to learn 
 ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)&nbsp;
 ![Jest](http://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C21325)
 
-🎨 **Styles**\
+### 🎨 Styles
 ![Styled-Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components&logoColor=ffde34)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=CC6699)&nbsp;
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-333333?style=flat&logo=chakraui&logoColor=319795)
 
 
-➕ **More...**\
+### ➕ More...
 ![Prismic IO](https://img.shields.io/badge/-Prismic%20IO-333333?style=flat&logo=prismic&logoColor=5163BA)&nbsp;
 ![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=stripe&logoColor=008cdd)&nbsp;
 ![Mapbox](https://img.shields.io/badge/-Mapbox-f0f0f0?style=flat&logo=mapbox&logoColor=000000)&nbsp;
