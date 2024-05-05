@@ -1,6 +1,6 @@
 ## <a href="https://github.com/Luciano-Ferreira/Luciano-Ferreira/blob/main/README-ptBR.md" target="_blank"> 📜 Readme em PT-BR 🇧🇷 </a>
 
-# Hi there ✌️
+# Hey folks ✌
 
 <!--
 My name's Luciano.
