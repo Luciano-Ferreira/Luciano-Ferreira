@@ -1,6 +1,6 @@
 ## <a href="https://github.com/Luciano-Ferreira" target="_blank"> 📜 Readme in EN-EUA 🇺🇸 </a>
 
-# Olá mundo ✌️
+# Olá pessoal ✌️
 
 
 * 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas
